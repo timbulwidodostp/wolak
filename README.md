@@ -1,6 +1,8 @@
 # wolak
 Testing inequality constraints in linear econometric models Use wolak (monotonicity) With (In) R Software
 
+https://www.youtube.com/watch?v=9U_Hb-llZTI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
